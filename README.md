@@ -1,6 +1,6 @@
 # Group Travel Tracker
 
-A minimal Node.js + PostgreSQL app that tracks which countries each individual in a group has visited.
+A Node.js + PostgreSQL app that tracks which countries each individual in a group has visited.
 
 ## Features
 
@@ -25,3 +25,4 @@ A minimal Node.js + PostgreSQL app that tracks which countries each individual i
 git clone https://github.com/your-username/group-travel-tracker.git
 cd group-travel-tracker
 npm install
+
